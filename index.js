@@ -1,6 +1,6 @@
 const {useState} = React;
 
-function counter(){
+function Counter(){
   const[count,setCount]=useState(0);
 
 return{
